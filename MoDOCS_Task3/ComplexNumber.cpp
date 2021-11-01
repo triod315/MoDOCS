@@ -3,11 +3,6 @@
  * Created by triod315 on 10/31/21, 12:44 PM
  * Copyright (c) 2021.
  */
-
-//
-// Created by triod315 on 10/30/2021.
-//
-
 #include "ComplexNumber.h"
 #include "math.h"
 

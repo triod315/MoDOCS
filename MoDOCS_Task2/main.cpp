@@ -86,7 +86,7 @@ int main() {
     READ(M)
     int *A[N];
     for (int i = 0; i < N; i++) {
-        A[i]=new int [N];
+        A[i]=new int [M];
     }
     // зчитування самого масиву з консолі або автогенерація масиву (закоментовано)
     READ_ARRAY(A, N, M)
